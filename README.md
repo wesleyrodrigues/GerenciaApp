@@ -29,6 +29,10 @@ Gasto linear mensal R$ 333.333,33
 Gastos reais atingiram R$ 5.000.000,00 no mês 12
 Já foram construídos até esta data 400 km
 ```
+
+![app1](https://user-images.githubusercontent.com/32652300/86305423-94fe0d00-bbdf-11ea-9e31-72f40d397ca7.png)
+
+Nesse caso o valor de VO pode ser arrendondado.
   
   ###### RELEASES 
   **v1.0** VA, VO, CR, VP, VT, VC, IPP, IPC, ICxP.
