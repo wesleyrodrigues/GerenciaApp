@@ -32,7 +32,9 @@ Já foram construídos até esta data 400 km
 
 ![app1](https://user-images.githubusercontent.com/32652300/86305423-94fe0d00-bbdf-11ea-9e31-72f40d397ca7.png)
 
-Nesse caso o valor de VO pode ser arrendondado.
+> Nesse caso o valor de **VO** pode ser arrendondado.
+
+![app2](https://user-images.githubusercontent.com/32652300/86305606-105fbe80-bbe0-11ea-8490-a5c0028dff29.png)
   
   ###### RELEASES 
   **v1.0** VA, VO, CR, VP, VT, VC, IPP, IPC, ICxP.
